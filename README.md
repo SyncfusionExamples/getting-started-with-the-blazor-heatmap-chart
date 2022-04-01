@@ -23,7 +23,6 @@ Populate data in the Blazor HeatMap Chart using different [axis](https://blazor.
 Arrange the axes smartly by moving them to positions opposite of their default positions.
 
 ## HeatMap cell customization
-
 Customize the default appearance of a cell or data point using the available formatting options.
 
 ### Data label
