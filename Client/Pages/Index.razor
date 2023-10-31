@@ -1,0 +1,42 @@
+﻿@page "/"
+
+<SfHeatMap DataSource="HeatMapData" Height="350px" Width="750px">
+    <HeatMapTitleSettings Text="Sales Revenue per Employee (in 1000 US$)"></HeatMapTitleSettings>
+    <HeatMapXAxis Labels="XLabels" ValueType="Syncfusion.Blazor.HeatMap.ValueType.Category"></HeatMapXAxis>
+    <HeatMapYAxis Labels="YLabels" ValueType="Syncfusion.Blazor.HeatMap.ValueType.Category"></HeatMapYAxis>
+    <HeatMapPaletteSettings Type="PaletteType.Fixed">
+        <HeatMapPalettes>
+            <HeatMapPalette Color="#C06C84"></HeatMapPalette>
+            <HeatMapPalette Color="#6C5B7B"></HeatMapPalette>
+            <HeatMapPalette Color="#355C7D"></HeatMapPalette>
+        </HeatMapPalettes>
+    </HeatMapPaletteSettings>
+    <HeatMapCellSettings TileType="CellType.Rect" BubbleType="BubbleType.Size" Format="${value}"></HeatMapCellSettings>
+    <HeatMapTooltipSettings Enable="false"></HeatMapTooltipSettings>
+</SfHeatMap>
+
+@code {
+    int?[,] DefaultData()
+    {
+        int?[,] datasource = new int?[,]
+        {
+            {52, 65, 67, 45, 37, 52},
+            { 68, null, 63, 51, 30, 51},
+            { 7, 16, 47, null, 88, 6},
+            { 66, 64, null, 40, 47, 41},
+            { 14, 46, 97, 69, null, 3},
+            { 54, 46, 61, 46, null, 39}
+        };
+        return datasource;
+    }
+
+    string[] XLabels = new string[] { "Nancy", "Andrew", "Janet", "Margaret", "Steven", "Michael" };
+    string[] YLabels = new string[] { "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" };
+
+    public object? HeatMapData { get; set; }
+
+    protected override void OnInitialized()
+    {
+        HeatMapData = DefaultData();
+    }
+}
