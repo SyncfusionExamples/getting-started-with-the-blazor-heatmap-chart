@@ -15,27 +15,43 @@ The [Blazor HeatMap Chart](https://www.syncfusion.com/blazor-components/blazor-h
 
 ## Features and Benefits
 
-### Bubble HeatMap Chart
+## Bubble HeatMap Chart
 The Blazor bubble HeatMap Chart, or the matrix bubble chart, visualizes the data using the variations in [bubble](https://blazor.syncfusion.com/documentation/heatmap-chart/bubble-heatmap?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples) attributes such as size, color, and sector.
 
-### Legend
+## Legend
 Display additional information about data points in the Blazor HeatMap Chart using a [legend](https://blazor.syncfusion.com/documentation/heatmap-chart/legend?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples).
 
-### Axis
+## Axis
 Populate data in the Blazor HeatMap Chart using different [axis](https://blazor.syncfusion.com/documentation/heatmap-chart/axis?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples) types: numeric, category, and date-time.
 
-### Palette
+### Opposed positions
+Arrange the axes smartly by moving them to positions opposite of their default positions.
+
+## HeatMap cell customization
+Customize the default appearance of a cell or data point using the available formatting options.
+
+### Data label
+Toggle visibility or format the data labels to display custom text along with the cell values.
+
+## Palette
 Customize the default color settings of the HeatMap cells with gradient or solid custom colors.The [palette](https://blazor.syncfusion.com/documentation/heatmap-chart/palette?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples) in the heat map is used to define the color range for cells and gradient type for colors.
 
-### Tooltip
+## Cell color range customization
+Color ranges allow a color to be applied to specific ranges in heatmap cells.
+
+### Paging
+The Component enables paging when legend items exceed the bounds. Then, each legend item can be viewed by navigating between the pages.
+
+## Tooltip
 Display additional information for the data points with [tooltips](https://blazor.syncfusion.com/documentation/heatmap-chart/tooltip?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples) on hovering the mouse over them.
+
 
 ## Related links
 [Learn More about Blazor HeatMap Chart](https://www.syncfusion.com/blazor-components/blazor-heatmap-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)
+[Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)
 
 [Documentation](https://blazor.syncfusion.com/documentation/heatmap-chart/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)
 
@@ -49,17 +65,20 @@ Display additional information for the data points with [tooltips](https://blazo
 
 [Video Tutorials](https://www.syncfusion.com/tutorial-videos/blazor/heatmap-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)
 
+[Knowledge base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)
+
+
 ## About Syncfusion Blazor Components
 The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples) library offers over 80 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to HeatMap Chart, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples).
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
 
-Today, we provide 1800+ components and frameworks for web ([Blazor](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [ASP NET Core](https://www.syncfusion.com/aspnet-core-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [ASP.NET WebForms](https://www.syncfusion.com/jquery/aspnet-webforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Angular](https://www.syncfusion.com/angular-ui-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [React](https://www.syncfusion.com/react-ui-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Vue](https://www.syncfusion.com/vue-ui-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)), mobile ([Xamarin](https://www.syncfusion.com/xamarin-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples),[JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), and [MAUI(Preview)](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)), and desktop development ([WinForms](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [WPF](https://www.syncfusion.com/wpf-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [WinUI](https://www.syncfusion.com/winui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples),[UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples). and [MAUI(Preview)](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)). We provide ready-to-deploy enterprise software for dashboards, reports, data integration, and big data processing. Many customers have saved millions in licensing fees by deploying our software.
+Today, we provide 1800+ components and frameworks for web ([Blazor](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [ASP.NET Core](https://www.syncfusion.com/aspnet-core-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [ASP.NET WebForms](https://www.syncfusion.com/jquery/aspnet-webforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Angular](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [React](https://www.syncfusion.com/react-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Vue](https://www.syncfusion.com/vue-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)), mobile ([Xamarin](https://www.syncfusion.com/xamarin-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples),[JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), and [MAUI(Preview)](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)), and desktop development ([WinForms](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [WPF](https://www.syncfusion.com/wpf-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [WinUI](https://www.syncfusion.com/winui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples),[UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples). and [MAUI(Preview)](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples)). We provide ready-to-deploy enterprise software for dashboards, reports, data integration, and big data processing. Many customers have saved millions in licensing fees by deploying our software.
 
 <hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
 
 <p align="center">
-<a href="mailto:sales@syncfusion.com?Subject=Syncfusion Blazor HeatMap Chart - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples">www.syncfusion.com</a>| Toll Free: 1-888-9 DOTNET <br>
+<a href="mailto:sales@syncfusion.com?Subject=Syncfusion Blazor HeatMap-Chart - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=blazor-heatmap-chart-github-samples">www.syncfusion.com</a>| Toll Free: 1-888-9 DOTNET <br>
 </p>
 
